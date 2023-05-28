@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Testimonial grid section screeshot](./images/testimonial-grid-section-screeshot.png)
+![Testimonial grid section screeshot](./src/images/testimonial-grid-section-screeshot.png)
 
 ## My process
 
